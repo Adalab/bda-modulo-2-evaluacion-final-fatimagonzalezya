@@ -6,3 +6,5 @@ He usado todo lo que hemos dados, salvo un concepto que he tenido que buscar, pa
 El último ejercicio no he sido capaz, pienso que hay que hacer algún tipo de fórmula que recorra los actores y encuentre coincidencias, seguramente con range pero no me sale...
 
 He aprendido mucho también enfrentandome a este ejercicio
+
+Por último tuve problemas para subir sql desde VC y tuve que hacerlo adjuntado archivo
